@@ -22,5 +22,6 @@ ones the original project uses, so the firmware source is unchanged.
 
 ## Keeping in sync
 
-The AIEN copies of the four source repositories carry no AIEN-specific files on
-their branches, so they can be updated from the originals cleanly.
+The AIEN copies of the four source repositories carry no AIEN-specific code on
+their branches (edk2-non-osi has only a short note at the top of its README), so
+they can be updated from the originals cleanly.
