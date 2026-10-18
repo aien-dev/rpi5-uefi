@@ -1,3 +1,7 @@
+> **AIEN fork.** This is the AIEN copy of [worproject/rpi5-uefi](https://github.com/worproject/rpi5-uefi), the Raspberry Pi 5 UEFI firmware. AIEN keeps it so the firmware can still be built if the original moves or disappears. Our only changes are on the `master` branch: the four submodules point at AIEN copies (same pinned versions, so the firmware source is unchanged), and [AIEN-NOTICE.md](AIEN-NOTICE.md) explains the chain. Status (2026-10-18): no AIEN change since 2026-10-15. AIEN itself starts at [Aienix](https://github.com/aien-dev/aienix), the core tree of AIEN.
+>
+> Everything below this note is the upstream README, unchanged.
+
 # End of support notice
 This repository is no longer maintained and has been archived.
 
